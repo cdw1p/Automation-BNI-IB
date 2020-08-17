@@ -1,5 +1,5 @@
 # Automation-BNI-IB
-Web Automation from Login -> Get Current Saldo -> Logout at IB BNI
+Web Automation (Login -> Get Current Saldo -> Logout) at IB BNI
 
 ## Install
 
